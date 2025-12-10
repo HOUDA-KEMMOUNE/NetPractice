@@ -88,7 +88,6 @@ AI assistance (ChatGPT) was used to:
 - Clarify OSI & TCP/IP layers  
 - Explain router behavior and ARP resolution  
 - Provide examples and troubleshooting logic  
-- Help format this README.md following the official requirements  
 
 AI **was NOT used** to solve the levels directly: all network configurations were solved manually in the NetPractice interface.
 
