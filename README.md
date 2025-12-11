@@ -30,10 +30,10 @@ This project is not about coding but about **practical network troubleshooting**
 
 ### 🧾 Submission requirements
 Your repository **must contain 10 exported configuration files**, one for each level:
-level1.txt
-level2.txt
+level1.json
+level2.json
 ...
-level10.txt
+level10.json
 
 
 These exported files must be **placed at the root of the repository**.
